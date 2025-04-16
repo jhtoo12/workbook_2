@@ -2,7 +2,7 @@ package com.pluralsight.fullname;
 
 import java.util.Scanner;
 
-public class app {
+public class FullNameGenerator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter your first name");
