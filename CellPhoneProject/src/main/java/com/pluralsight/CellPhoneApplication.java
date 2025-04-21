@@ -11,7 +11,7 @@ public class CellPhoneApplication {
         System.out.print("Enter the serialNumber");
 
 
-        Cellphone appliance = new Cellphone("123", "124");
+        Cellphone appliance = new Cellphone(123, 124);
 
 
     }
